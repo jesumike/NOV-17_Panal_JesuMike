@@ -1,0 +1,5 @@
+AI USE ACKNOWLEDGMENT
+Describe how you used AI in this activity — which prompts, and what kind of hints you received:
+I used AI as a Java tutor to help me understand the problems and help me code. I used prompts like "Act as my Java tutor and explain this problem," "Explain this part," 
+"What is the use of this?" and "Explain this in simple terms." The hints that I usually received are suggestions, grammar fixed, formatting and hints on how
+to write the code properly.
